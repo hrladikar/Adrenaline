@@ -1,6 +1,6 @@
-# Developed by Hrishikesh Ladikar
+ Developed by Hrishikesh Ladikar
 
-# Bilingual_Alignment_Toolkit(Hindi_English)
+# Bilingual_Alignment_Toolkit (Hindi_English)
 - eng_ptagcrawl2.py and hin_ptagcrawl2.py is used to crawl a sample corpus from Krishnakosh.org 
 - to crawl the entire corpus use eng_ptagcrawl.py and hin_ptagcrawl.py
 - Follow the steps on the Terminal provided
